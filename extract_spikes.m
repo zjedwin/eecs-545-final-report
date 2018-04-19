@@ -1,7 +1,7 @@
 %% EECS 545 project
 % extracts spikes from simulated neural recording at
 % http://www2.le.ac.uk/departments/engineering/research/bioengineering/neuroengineering-lab/software
-% Charles Lu
+% Zamar Edwin; Charles Lu
 
 %% Parameters
 T_s = 64;   % number of samples to extract per spike
