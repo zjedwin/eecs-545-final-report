@@ -1,7 +1,7 @@
 %% EECS 545 project
 % generates pink noise and then picks out thresholded snippets to act as
 % noisy signals to make clustering harder
-% Charles Lu
+% Zamar Edwin; Charles Lu
 
 %% Parameters
 N = 1000;   % number of snippets to create
