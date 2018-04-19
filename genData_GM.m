@@ -1,7 +1,7 @@
 %% EECS 545 project
 % generates clusters with Gaussian distribution plus noise for 
 % testing clustering algorithms
-% Charles Lu
+% Charles Lu; Zamar Edwin
 
 %% Parameters
 C = 4;      % number of clusters
